@@ -15,7 +15,7 @@ An offline expense tracker app to manage daily, weekly, and monthly expenses.
 - Add New Expense
 
 ## 🛠️ Tech
-- Kotlin and JetPack Compose
+- Kotlin, JetPack Compose and Room
 
 <img width="1080" height="2340" alt="ExpenseScreen" src="https://github.com/user-attachments/assets/efb37b37-b55d-4a36-980a-0d1bb1617677" />
 
